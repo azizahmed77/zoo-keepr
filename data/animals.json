@@ -117,6 +117,17 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "aziz",
+      "species": "buttmuncher",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "12"
     }
   ]
 }
